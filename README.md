@@ -9,10 +9,6 @@ Key features include:
   -   Numerical Variables: Age, Balance, Duration of contact.  
   - Categorical Variables: Job, Marital Status, Education, Contact Method, and Campaign Outcome. 
   - Response Variable: Whether the customer subscribed to a term deposit (yes or no).
-
-## Tools & Technologies
-  - Programming Language: R
-  - Key Libraries: caret, MASS ,  dendextend, cluster,  ggplot2
     
 ## Repository Contents
   - Dataset: 'bank.csv' file consists of the data used for the analysis.
