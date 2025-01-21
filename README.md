@@ -1,4 +1,4 @@
-# Bank-Telemarketing-Analysis
+# Unlocking Insights: Data-Driven Strategies for Bank Telemarketing Success
 
 ## Overview
 This project applies data mining techniques to analyze the success of bank telemarketing campaigns in predicting customer subscription to term deposits. It leverages both supervised and unsupervised learning methods to provide actionable insights for improving customer outreach strategies and boosting marketing efficiency.
